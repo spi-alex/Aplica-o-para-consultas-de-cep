@@ -1,0 +1,17 @@
+* {
+  background-color: blanchedalmond;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+section {
+  text-align: center;
+}
